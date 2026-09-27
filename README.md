@@ -4,12 +4,12 @@
 
 I'm a Computer Science undergraduate at the African Leadership University, focused on Artificial Intelligence, Machine Learning and Data Science.
 
-I enjoy building practical systems that combine software, data, and intelligent models to solve real-world problems. I'm particularly interested in healthcare analytics and AI-enabled automation.
+I enjoy building practical systems that combine software, data and intelligent models to solve real-world problems. I'm particularly interested in healthcare analytics and AI-enabled automation.
 
 ## 🧠 What I work with
 
 **Languages:**  
-Python · C++ · C · C# · JavaScript · SQL · DAX
+Python · C++ · C · JavaScript · SQL · DAX
 
 **Machine Learning & Data:**  
 PyTorch · TensorFlow · Scikit-learn · Pandas · NumPy · XGBoost · SHAP · Statistical Analysis
