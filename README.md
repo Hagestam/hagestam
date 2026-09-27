@@ -1,12 +1,12 @@
-# Sudi Hagestam
+# Sudi Hagestam 👋
 
 ### Computer Science | AI/ML | Data Science
 
-I'm a Computer Science undergraduate at the African Leadership University, focused on Artificial Intelligence, Machine Learning, and Data Science.
+I'm a Computer Science undergraduate at the African Leadership University, focused on Artificial Intelligence, Machine Learning and Data Science.
 
-I enjoy building practical systems that combine software, data, and intelligent models to solve real-world problems. I'm particularly interested in healthcare analytics, AI engineering, and intelligent automation.
+I enjoy building practical systems that combine software, data, and intelligent models to solve real-world problems. I'm particularly interested in healthcare analytics and AI-enabled automation.
 
-### What I work with
+## 🧠 What I work with
 
 **Languages:**  
 Python · C++ · C · C# · JavaScript · SQL · DAX
@@ -23,14 +23,14 @@ FastAPI · SQLAlchemy · REST APIs · PostgreSQL · Docker · MLflow · Redis
 **Analytics & Tools:**  
 Power BI · Excel · AWS · Git · Jupyter
 
-### Currently
+## Currently
 
 - Studying Computer Science at African Leadership University
 - Pursuing Applied Data Science through WorldQuant University
 - Building projects across AI/ML, data analytics, and backend engineering
 - Exploring applications of AI and data in healthcare
 
-### Experience
+## Experience
 
 **Founder & CEO — Haksikisha Health**  
 Building technology focused on improving healthcare claim integrity and reducing avoidable claim rejections.
@@ -41,19 +41,19 @@ Taught students software development through Unity and Unreal Engine, covering p
 **Student Researcher — codeKenya**  
 Worked on AI/ML research and software engineering projects as part of a student research team.
 
-### Leadership
+## Leadership
 
 President — AI & Machine Learning Society, African Leadership University  
 Tech Lead — PathQuest Robotics, African Leadership University  
 Team Leader — codeKenya Class of 2025
 
-### Certifications
+## 🎓 Certifications
 
-Data Analysis with Python — IBM  
-Data Synthesis with Microsoft Power BI — Microsoft  
-Preparing Data for Analysis with Microsoft Excel — Microsoft
+- Data Analysis with Python — IBM
+- Data Synthesis with Microsoft Power BI — Microsoft
+- Preparing Data for Analysis with Microsoft Excel — Microsoft
 
-### Connect
+## 🤝 Connect
 
 [LinkedIn](https://www.linkedin.com/in/sudihagestam)
 
