@@ -2,7 +2,7 @@
 
 ### Computer Science | AI/ML | Data Science
 
-I'm a Data Scientist specialising in Machine Learning and any related intelligent technologies in the field.
+I'm a Data Scientist specialising in Machine Learning and working with all intelligent technologies related to the field.
 
 I enjoy building practical systems that combine data and intelligent models to solve real-world problems. I'm particularly interested in healthcare analytics and AI-enabled automation.
 
