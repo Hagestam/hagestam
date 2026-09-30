@@ -32,20 +32,20 @@ Power BI · Excel · AWS · Git · Jupyter
 
 ## Experience
 
-**Founder & CEO — Haksikisha Health**  
+**Founder & CEO - Haksikisha Health**  
 Building technology focused on improving healthcare claim integrity and reducing avoidable claim rejections.
 
-**Game Development Instructor — AuraVision Academy**  
+**Game Development Instructor - AuraVision Academy**  
 Taught students software development through Unity and Unreal Engine, covering programming, game architecture, AI behavior, and systems design.
 
-**Student Researcher — codeKenya**  
+**Student Researcher - codeKenya**  
 Worked on AI/ML research and software engineering projects as part of a student research team.
 
 ## Leadership
 
-President — AI & Machine Learning Society, African Leadership University  
-Tech Lead — PathQuest Robotics, African Leadership University  
-Team Leader — codeKenya Class of 2025
+President    - AI & Machine Learning Society, African Leadership University  
+Tech Lead    - PathQuest Robotics, African Leadership University  
+Team Leader  - codeKenya Class of 2025
 
 ## 🎓 Certifications
 
