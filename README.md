@@ -49,9 +49,9 @@ Team Leader  - codeKenya Class of 2025
 
 ## 🎓 Certifications
 
-- Data Analysis with Python — IBM
-- Data Synthesis with Microsoft Power BI — Microsoft
-- Preparing Data for Analysis with Microsoft Excel — Microsoft
+- Data Analysis with Python - IBM
+- Data Synthesis with Microsoft Power BI - Microsoft
+- Preparing Data for Analysis with Microsoft Excel - Microsoft
 
 ## 🤝 Connect
 
