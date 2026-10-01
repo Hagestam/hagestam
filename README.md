@@ -32,7 +32,7 @@ Power BI · Excel · AWS · Git · Jupyter
 
 ## Experience
 
-**Founder & CEO - Haksikisha Health**  
+**Founder & CEO - Hakikisha Health**  
 Building technology focused on improving healthcare claim integrity and reducing avoidable claim rejections.
 
 **Game Development Instructor - AuraVision Academy**  
