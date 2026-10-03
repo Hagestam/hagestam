@@ -2,9 +2,7 @@
 
 ### Computer Science | AI/ML | Data Science
 
-I'm a Computer Science student at African Leadership University
-
-I enjoy building practical systems that combine data and intelligent models to solve real-world problems. I'm particularly interested in healthcare analytics and AI-enabled automation.
+I'm a Computer Science student at African Leadership University.
 
 ## What I work with
 
