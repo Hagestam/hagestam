@@ -1,6 +1,6 @@
 # Sudi Hagestam
 
-I'm a Computer Science student at African Leadership University.
+I'm a Kenyan Computer Science student at African Leadership University, Pamplemousses, MU.
 
 ## What I work with  
 
