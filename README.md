@@ -1,7 +1,5 @@
 # Sudi Hagestam
 
-### Computer Science | AI/ML | Data Science
-
 I'm a Computer Science student at African Leadership University.
 
 ## What I work with  
