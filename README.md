@@ -16,7 +16,7 @@ I'm a Computer Science student at African Leadership University.
 > `PyTorch` | `TensorFlow` | `Scikit-learn` | `XGBoost` | `Statistical Analysis`
 
 > **AI Engineering**  
-> `LLMs` | `RAG` | `LangChain` | `Agentic Systems` | `Claude API`
+> `LLMs` | `Agentic Systems` | `Claude API`
 
 > **Backend & MLOps**  
 > `FastAPI` | `SQLAlchemy` | `REST APIs` | `PostgreSQL` | `Docker` | `MLflow` | `Redis`
