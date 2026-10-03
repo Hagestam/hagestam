@@ -42,8 +42,6 @@ Taught students software development through Unity and Unreal Engine, covering p
 Worked on AI/ML research and software engineering projects as part of a student research team.
 
 
-## Curious to get to me:
-
-
+## Excited to talk and collaborate with me?
 
 Email: hagestamsudi187@gmail.com
