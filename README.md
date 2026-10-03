@@ -33,6 +33,17 @@ I'm a Computer Science student at African Leadership University.
 | **Backend & MLOps** | `FastAPI` • `SQLAlchemy` • `REST APIs` • `PostgreSQL` • `Docker` • `MLflow` • `Redis` |
 | **Analytics & Cloud** | `Power BI` • `Excel` • `AWS` • `Git` • `Jupyter` |
 
+## 🧠 Technical Skills
+
+> **Languages & Databases**  
+> `Python` | `C++` | `C` | `JavaScript` | `SQL` | `DAX` | `PostgreSQL` | `Redis`
+
+> **AI, Machine Learning & MLOps**  
+> `PyTorch` | `TensorFlow` | `Scikit-learn` | `XGBoost` | `LLMs` | `RAG` | `LangChain` | `Agentic Systems` | `MLflow`
+
+> **Backend, Cloud & Analytics**  
+> `FastAPI` | `SQLAlchemy` | `REST APIs` | `Docker` | `AWS` | `Power BI` | `Git` | `Jupyter`
+
 ## Currently
 
 - Studying Computer Science at African Leadership University
