@@ -35,9 +35,9 @@ I'm a Computer Science student at African Leadership University.
 ## Where I have worked:
 
 **Founder & CEO - Hakikisha Health**  
-Building technology focused on improving healthcare claim integrity and reducing avoidable claim rejections.
+Building technology focused on improving healthcare claim integrity and reducing avoidable claim rejections - fine-tuned on past rejected and accepted claims.
 
-**Game Development Instructor - AuraVision Academy**  
+**Game Engineering Instructor - AuraVision Academy**  
 Taught students software development through Unity and Unreal Engine, covering programming, game architecture, AI behavior, and systems design.
 
 **Student Researcher - codeKenya**  
