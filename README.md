@@ -12,9 +12,6 @@ I'm a Computer Science student at African Leadership University.
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 
-> **Languages**  
-> `Python` | `C++` | `C` | `JavaScript` | `SQL` | `DAX`
-
 > **Machine Learning & Data**  
 > `PyTorch` | `TensorFlow` | `Scikit-learn` | `XGBoost` | `Statistical Analysis`
 
