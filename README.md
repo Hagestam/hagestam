@@ -31,16 +31,11 @@ I'm a Computer Science student at African Leadership University.
 - Building projects across AI/ML, data analytics, and backend engineering
 - Exploring applications of AI and data in healthcare
 
-## Where I have worked:
+## What I am working on:
 
-**Founder & CEO - Hakikisha Health**  
+**Hakikisha Health**  
 Building technology focused on improving healthcare claim integrity and reducing avoidable claim rejections - fine-tuned on past rejected and accepted claims.
 
-**Game Engineering Instructor - AuraVision Academy**  
-Taught students software development through Unity and Unreal Engine, covering programming, game architecture, AI behavior, and systems design.
-
-**Student Researcher - codeKenya**  
-Worked on AI/ML research and software engineering projects as part of a student research team.
 
 
 ## Excited to talk and collaborate with me?
