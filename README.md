@@ -1,4 +1,4 @@
-# Sudi Hagestam 👋
+# Sudi Hagestam
 
 ### Computer Science | AI/ML | Data Science
 
