@@ -25,7 +25,7 @@ I'm a Computer Science student at African Leadership University.
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Redis](https://img.shields.io/badge/redis-%23DD0000.svg?style=for-the-badge&logo=redis&logoColor=white)
 
-# Currently
+## Currently
 
 - Studying Computer Science at African Leadership University
 - Pursuing Applied Data Science through WorldQuant University
