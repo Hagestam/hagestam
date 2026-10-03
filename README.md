@@ -25,6 +25,14 @@ I'm a Computer Science student at African Leadership University.
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Redis](https://img.shields.io/badge/redis-%23DD0000.svg?style=for-the-badge&logo=redis&logoColor=white)
 
+| Category | Technologies & Tools |
+| :--- | :--- |
+| **Languages** | `Python` • `C++` • `C` • `JavaScript` • `SQL` • `DAX` |
+| **Machine Learning & Data** | `PyTorch` • `TensorFlow` • `Scikit-learn` • `XGBoost` • `Statistical Analysis` |
+| **AI Engineering** | `LLMs` • `RAG` • `LangChain` • `Agentic Systems` • `Claude API` |
+| **Backend & MLOps** | `FastAPI` • `SQLAlchemy` • `REST APIs` • `PostgreSQL` • `Docker` • `MLflow` • `Redis` |
+| **Analytics & Cloud** | `Power BI` • `Excel` • `AWS` • `Git` • `Jupyter` |
+
 ## Currently
 
 - Studying Computer Science at African Leadership University
