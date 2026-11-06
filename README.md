@@ -29,11 +29,6 @@ I'm a Kenyan Computer Science student at African Leadership University, Pamplemo
 - Building projects across AI/ML, data analytics, and backend engineering
 - Exploring applications of AI and data in healthcare
 
-## What I am working on:
-
-**Hakikisha Health**  
-Building technology focused on improving healthcare claim integrity and reducing avoidable claim rejections - fine-tuned on past rejected and accepted claims.
-
 
 
 ## Excited to talk and collaborate with me?
